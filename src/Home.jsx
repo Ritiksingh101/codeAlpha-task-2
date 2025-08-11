@@ -6,6 +6,7 @@ import First from './Page/First'
 import About from './Page/About'
 import Skill from './Page/Skill'
 import Contect from './Page/Contect'
+// import Api from './Page/Api'
 
 
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
   <About></About>
   <Skill></Skill>
   <Contect></Contect>
+  
   
   </>    
 
